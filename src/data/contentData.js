@@ -36,18 +36,6 @@ export const communityMembers = [
     alt: "Sage Logo",
     name: "Sage",
   },
-  {
-    id: 7,
-    src: "/fiturs/salesforce.png",
-    alt: "salesforce Logo",
-    name: "salesforce",
-  },
-  {
-    id: 8,
-    src: "/fiturs/concentrix.png",
-    alt: "oncentrix Logo",
-    name: "Concentrix",
-  },
 ];
 
 // Features Data
